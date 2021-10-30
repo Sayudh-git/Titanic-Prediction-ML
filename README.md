@@ -1,5 +1,6 @@
 # Titanic : Visualization & Prediction
-Predict survival on the Titanic by Sayudh Mukherjee.
+Predict survival on the Titanic 
+ -Sayudh Mukherjee.
 
 <img src="https://wallpaperaccess.com/full/1161691.jpg" height="70%" width="80%" >
 
@@ -56,21 +57,21 @@ Second Level Learning Model : Trained a XGBClassifier using xgboost
 
 ## FlowChart
 
-<img src="https://raw.githubusercontent.com/RohitLearner/Titanic/master/fig/flowchart.png" height="70%" width="80%"
+<img src="https://github.com/Sayudh-git/Titanic-Prediction-ML/blob/main/fig/flowchart.png" height="70%" width="80%"
      title="FlowChart">
 
 
 ## Prediction & Submission
 
 The modal comparison with cross validation for first output layer :
-<img src="https://raw.githubusercontent.com/RohitLearner/Titanic/master/fig/model_comparison_with_validation.png"
+<img src="https://github.com/Sayudh-git/Titanic-Prediction-ML/blob/main/fig/model_comparison_with_validation.png"
      title="xgboost with validation" height="70%" width="80%">
 
 
 The final price prediction for each house is present in the `output` folder as a .csv file. The final model used for scoring is hypertuned XGBoost Classifier with Cross Validation. 
 
 The final XGBoost Classifier can be viewed as :
-<img src="https://raw.githubusercontent.com/RohitLearner/Titanic/master/fig/xgboost_with_validation.png" height="70%" width="80%"
+<img src="https://github.com/Sayudh-git/Titanic-Prediction-ML/blob/main/fig/xgboost_with_validation.png" height="70%" width="80%"
      title="xgboost with validation">
 
 ## Contributors
